@@ -7,7 +7,7 @@ A simple yet fun **Java Swing Paint Application** that lets you draw with pastel
 ## ✨ Features  
 - 🖌️ **Brush Sizes**: Small, Medium, Large  
 - 🔲 **Brush Shapes**: Circle, Square, Spray  
-- 🌈 **Pastel Color Palette**: Includes multiple pastel shades + black, white, and gray  
+- 🌈 **Pastel Color Palette**: Includes multiple pastel shades  
 - 🧹 **Clear Button**: Erase the entire canvas in one click  
 - 💾 **Save Button**: Save your masterpiece as a PNG image  
 
