@@ -14,7 +14,7 @@ A simple yet fun **Java Swing Paint Application** that lets you draw with pastel
 ---
 
 ## 📸 Screenshot  
-![App Screenshot](screenshot.png)  
+![App Screenshot](PaintAppScreenshot.png)  
 
 ---
 
